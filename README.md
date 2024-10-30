@@ -179,7 +179,7 @@ La acción que se realizará cuando se colisione con estas plataformas invisible
 
 ### d. Mecánica de recolección.
 
-Añadimos los objetos que serán coleccionados a la escena y le asignamos la capa "Item". Cada objeto ha de tener un componente de tipo Collider2D y un Rigidbody2D cuyo BodyType esté establecido como Kinematic.
+Añadimos los objetos que serán recolectados a la escena y le asignamos la capa "Item". Cada objeto ha de tener un componente de tipo Collider2D y un Rigidbody2D cuyo BodyType esté establecido como Kinematic.
 
 ![](https://github.com/Alu0101030562/Screenshots/blob/main/Screenshots/MapaFisicas2D/34.%20Items.PNG)
 
